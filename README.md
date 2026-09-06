@@ -93,3 +93,7 @@ each decision.
 
 `pandas`, `numpy`, `scikit-learn`, `lightgbm`, `shap`, `matplotlib`, `scipy`.
 Exact versions in `requirements.txt`.
+
+The competition data (`train.csv`, `test.csv`) is **not** committed. Download it from the
+competition page and place both files in the repository root before running:
+https://www.kaggle.com/competitions/inter-uni-datathon-stream-1-credit-card-clients
